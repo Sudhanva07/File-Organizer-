@@ -1,0 +1,15 @@
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\bin\Debug\AlphaZero.exe.config
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\bin\Debug\AlphaZero.exe.manifest
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\bin\Debug\AlphaZero.application
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\bin\Debug\AlphaZero.exe
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\bin\Debug\AlphaZero.pdb
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.Form1.resources
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.Properties.Resources.resources
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.csproj.GenerateResource.cache
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.csproj.CoreCompileInputs.cache
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.exe.manifest
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.application
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.exe
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.pdb
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.csprojResolveAssemblyReference.cache
+C:\Users\Ryzen_vega\source\repos\AlphaZero\AlphaZero\obj\Debug\AlphaZero.Form2.resources
